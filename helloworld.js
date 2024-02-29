@@ -1,10 +1,10 @@
 function nodeJSConsole() {
-    console.log("Hello, World from Node.js!");
+    console.log("Hello World, from Node.js!");
 }
 
 
 function browserConsole() {
-    console.log("Hello, World from Browser Console!");
+    console.log("Hello World, from Browser Console!");
 }
 
 
